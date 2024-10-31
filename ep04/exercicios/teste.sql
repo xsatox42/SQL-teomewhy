@@ -1,5 +1,3 @@
 SELECT *
 
-from tb_orders
-
-
+from tb_products
